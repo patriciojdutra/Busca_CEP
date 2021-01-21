@@ -12,6 +12,10 @@ Retrofit
 
 GPS
 
+# Baixar o aplicativo
+[Clique aqui para baixar o arquivo](https://github.com/patriciojdutra/Busca_CEP/raw/master/app-busca-cep.apk)
+
+
 # Telas 
 
 ## Animação inicial
