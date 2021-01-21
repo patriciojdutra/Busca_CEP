@@ -14,4 +14,15 @@ GPS
 
 # Telas 
 
-https://github.com/patriciojdutra/Busca_CEP/issues/1#issue-791263414
+## Animação inicial
+![gif](https://github.com/patriciojdutra/Busca_CEP/blob/master/anim.gif)
+
+
+
+## Localização atual
+![gif](https://github.com/patriciojdutra/Busca_CEP/blob/master/localizacao.gif)
+
+
+
+## Buscar CEP
+![gif](https://github.com/patriciojdutra/Busca_CEP/blob/master/cep.gif)
